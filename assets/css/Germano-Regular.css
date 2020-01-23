@@ -2,11 +2,11 @@
 
 @font-face {
 	font-family:'Germano-Regular';
-	src: url('/assets/germano/Germano-Regular.eot');
-	src: url('/assets/germano/Germano-Regular.eot?#iefix') format('embedded-opentype'),
-		url('/assets/germano/Germano-Regular.woff') format('woff'),
-		url('/assets/germano/Germano-Regular.ttf') format('truetype'),
-		url('/assets/germano/Germano-Regular.svg#Germano-Regular') format('svg');
+	src: url('germano/Germano-Regular.eot');
+	src: url('germano/Germano-Regular.eot?#iefix') format('embedded-opentype'),
+		url('germano/Germano-Regular.woff') format('woff'),
+		url('germano/Germano-Regular.ttf') format('truetype'),
+		url('germano/Germano-Regular.svg#Germano-Regular') format('svg');
 	font-weight: 300;
 	font-style: normal;
 	font-stretch: condensed;

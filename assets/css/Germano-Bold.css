@@ -2,11 +2,11 @@
 
 @font-face {
 	font-family:'Germano-Bold';
-	src: url('/assets/germano/Germano-Bold.eot');
-	src: url('/assets/germano/Germano-Bold.eot?#iefix') format('embedded-opentype'),
-		url('/assets/germano/Germano-Bold.woff') format('woff'),
-		url('/assets/germano/Germano-Bold.ttf') format('truetype'),
-		url('/assets/germano/Germano-Bold.svg#Germano-Bold') format('svg');
+	src: url('germano/Germano-Bold.eot');
+	src: url('germano/Germano-Bold.eot?#iefix') format('embedded-opentype'),
+		url('germano/Germano-Bold.woff') format('woff'),
+		url('germano/Germano-Bold.ttf') format('truetype'),
+		url('germano/Germano-Bold.svg#Germano-Bold') format('svg');
 	font-weight: 700;
 	font-style: normal;
 	font-stretch: condensed;
