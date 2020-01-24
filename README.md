@@ -1,2 +1,1 @@
-# JuanDelPueblo.github.io
-MCPueblo Website
+# MCPueblo Website
