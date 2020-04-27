@@ -2897,7 +2897,17 @@
 			color: #f5f5f5 !important;
 			cursor: default;
 			opacity: 0.25;
-		}
+        }
+        
+        .button.center {
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .center {
+            margin: 0 auto;
+            text-align: center;
+        }
 
 /* Header */
 
