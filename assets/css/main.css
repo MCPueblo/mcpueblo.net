@@ -3947,3 +3947,10 @@
   ::-webkit-scrollbar-thumb:hover {
 	background: rgb(167, 50, 0);
   }
+
+  iframe.map {
+    width: 100%;
+    border: none;
+    overflow: hidden;
+    height: 700px;
+}
