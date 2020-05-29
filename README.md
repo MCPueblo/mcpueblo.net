@@ -1,2 +1,4 @@
 # MCPueblo Website
-Website is now hosted on a separate VPS, but Github will still be used as a method of version control.
+All the pages, images, and assets are found here.
+
+Based off the [Alpha template from HTML5 UP](https://html5up.net/alpha).
